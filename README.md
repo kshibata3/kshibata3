@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kshibata3
-- 👀 I’m interested in building and investing in spacetech, fintech, consumer.
-- 🌱 I’m currently learning the extent of my thermal exhaust port
+- 👀 I’m interested in building and investing in fintech, consumer, spacetech.
 - 📫 How to reach me: kaylyn.shibata@gmail.com
 
 <!---
