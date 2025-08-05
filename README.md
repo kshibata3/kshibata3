@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kshibata3
-- 👀 I’m interested in building and investing in fintech, consumer, spacetech.
+- 👀 I’m interested in building and investing in B2B SaaS, consumer, spacetech.
 - 📫 How to reach me: kaylyn.shibata@gmail.com
 
 <!---
